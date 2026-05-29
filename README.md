@@ -20,10 +20,6 @@
 - [Question Bank](#question-bank)
 - [Future Enhancements](#future-enhancements)
 - [Developer](#developer)
-- [Guide](#guide)
-- [Institution](#institution)
-- [Acknowledgments](#acknowledgments)
-
 ---
 
 ## 📖 Project Overview
@@ -66,16 +62,20 @@ The purpose of this system is to eliminate the flaws in the manual system of con
 ## 📸 Screenshots
 
 ### Login Page
-![Login Page](screenshots/login.png)
+![Login Page]<img width="1917" height="1010" alt="login" src="https://github.com/user-attachments/assets/4e7bc2c0-93a5-4c45-b824-8b6202ee1640" />
+
 
 ### Instructions Page
-![Instructions](screenshots/instructions.png)
+![Instructions]<img width="1919" height="1030" alt="instructions" src="https://github.com/user-attachments/assets/d74b55ef-6106-437c-a07f-578be4e810a4" />
+
 
 ### Examination Page
-![Exam Page](screenshots/exam.png)
+![Exam Page]<img width="1919" height="1000" alt="qs" src="https://github.com/user-attachments/assets/5ffff03b-1cc9-4bea-8dea-644fd1307d30" />
+
 
 ### Result Page
-![Result Page](screenshots/result.png)
+![Result Page]<img width="1919" height="991" alt="result" src="https://github.com/user-attachments/assets/026da302-76c0-46e4-a852-301e675426b3" />
+
 
 > **Note:** Replace placeholder images with actual screenshots from your running application.
 
