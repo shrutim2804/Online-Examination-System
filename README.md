@@ -108,7 +108,8 @@ The purpose of this system is to eliminate the flaws in the manual system of con
 ### Step 1: Clone the Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/Online-Examination-System.git
+git clone
+https://github.com/shrutim2804/Online-Examination-System.git
 Step 2: Navigate to Project Folder
 bash
 cd Online-Examination-System
