@@ -9,17 +9,17 @@
 ---
 
 ## 📋 Table of Contents
-- [Project Overview](#project-overview)
-- [Features](#features)
-- [Screenshots](#screenshots)
-- [Technologies Used](#technologies-used)
-- [Installation & Setup](#installation--setup)
-- [How to Run](#how-to-run)
-- [Login Credentials](#login-credentials)
-- [Project Structure](#project-structure)
-- [Question Bank](#question-bank)
-- [Future Enhancements](#future-enhancements)
-- [Developer](#developer)
+- [Project Overview](#-project-overview)
+- [Features](#-features)
+- [Screenshots](#-screenshots)
+- [Technologies Used](#-technologies-used)
+- [Installation & Setup](#-installation--setup)
+- [How to Run](#-how-to-run)
+- [Login Credentials](#-login-credentials)
+- [Project Structure](#-project-structure)
+- [Question Bank](#-question-bank)
+- [Future Enhancements](#-future-enhancements)
+- [Developer](#-developer)
 
 ---
 
@@ -27,7 +27,7 @@
 
 This is a desktop Java Swing app that simulates a short, timed MCQ exam. A user logs in, reads the instructions, answers 10 Java-programming questions within a 10-minute timer, and gets an instant score with percentage and feedback — all without a database, running entirely in memory.
 
-It's built as a single-session quiz tool rather than a full multi-user exam platform — no question bank management, no persistent storage, no admin panel (see [Future Enhancements](#future-enhancements) for where this could go).
+It's built as a single-session quiz tool rather than a full multi-user exam platform — no question bank management, no persistent storage, no admin panel (see [Future Enhancements](#-future-enhancements) for where this could go).
 
 ---
 
